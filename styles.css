@@ -1,0 +1,42 @@
+body{background-color: rgb(15, 15, 15);
+
+
+} 
+ 
+ 
+ 
+ 
+ .Titulo { text-align: center;
+color:#FF0000;
+font-family: 'Aboreto', cursive;
+
+
+}
+
+
+
+.imagem{
+display: inline-block;
+
+
+    padding-right: 20px;
+    padding-left: 36px;
+
+    width: 80%;
+
+margin-right: 300px
+;
+    height: 50%;
+}
+
+.texto{
+
+    font-family: 'Petit Formal Script', cursive;
+    color: ghostwhite;
+}
+
+
+
+
+
+
